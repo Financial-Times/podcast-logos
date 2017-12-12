@@ -1,0 +1,78 @@
+{
+	"sourceDirectory": "src",
+	"scheme": "ftpodcast",
+	"images": [
+		{
+			"name": "alphachat",
+			"extension": "png",
+			"path": "src/alphachat.png",
+			"hash": "2e852c218a7abd0715ea78be67b70b5c96e82ddcb217dfa4139eb4985847c0afcac6289714c7b2b8375d99e84ea3e97bf898406202ff67dd37c980ff0b6ffdab"
+		},
+		{
+			"name": "arts",
+			"extension": "png",
+			"path": "src/arts.png",
+			"hash": "9db9aada6ce58848ed18cfdc760bd4229fd580a30fc11296d714e15a7777421a66fc72c6f539c2c2ce159275ace73ed8435428122c6826aea83ad8c27bc40ea8"
+		},
+		{
+			"name": "banking-weekly",
+			"extension": "png",
+			"path": "src/banking-weekly.png",
+			"hash": "6c4b570695e07e5a60cb4c810d26b589fc31cdc3ef6b48865758c18cc0486dca668321a2cc2ce2cd6b1ccfe4a55df5ceb0e378cc380e641f214e466b4a85eb8c"
+		},
+		{
+			"name": "big-read",
+			"extension": "png",
+			"path": "src/big-read.png",
+			"hash": "ad5c19bb48bfea01ab20db64a48f1b264500fe2203ef7fa3fccdab211fc69954347ce272e5ea09561d1bc74e1aef3737581ae202d96817747f6a16f7c8101890"
+		},
+		{
+			"name": "connected-business",
+			"extension": "png",
+			"path": "src/connected-business.png",
+			"hash": "7262b3291d1bedc5f6622088e5f25bc8fc700a4077677c8337c986e9a4e1a3d51edd7a66db01cbceb219845e5cdee8765b3859d6b31befd1f4167358ce208499"
+		},
+		{
+			"name": "first-ft",
+			"extension": "png",
+			"path": "src/first-ft.png",
+			"hash": "2be509f54f6d7108b27f5d5cc8355aa2fca667c820caa9050c49642eac9b0a203c29ad6bbd1f17a4d923ef955e01af9cdfe1c330f9e5a8a418b69e812df3dd2a"
+		},
+		{
+			"name": "ft-news",
+			"extension": "png",
+			"path": "src/ft-news.png",
+			"hash": "721ea5f67041bfbf325f70f127ab7eee9b3bbe05be452216bd310a0cf620584182eb185f0cfd3ab45adb9d263ae02b6a04da0738e61fa922646facf0e095ea6a"
+		},
+		{
+			"name": "hard-currency",
+			"extension": "png",
+			"path": "src/hard-currency.png",
+			"hash": "1854a840e563f7806ae670fbf613e48e2184d347b18602c8d3efcd77e2631c0a8847ce1e255c653a1c482b6415a53c48bcc27314d9c81b85a671e769caab1749"
+		},
+		{
+			"name": "listen-to-lucy",
+			"extension": "png",
+			"path": "src/listen-to-lucy.png",
+			"hash": "8391a5f555ef95a6fc05ba100c471b11e225ab57748ba351ba9f2fec91609139803d8945ba03493225e5d1b3a840de7995000aca67f1ef9f2fbadda522685622"
+		},
+		{
+			"name": "money-show",
+			"extension": "png",
+			"path": "src/money-show.png",
+			"hash": "02037aa65991e0962ae680b8164b208e3beffc13e443968dcafe7b1869656451f8088dddd0b4efd66006ceadc114a7071e5e0d5a744955b90d1aeabc748e1fad"
+		},
+		{
+			"name": "uk-general-election-2015",
+			"extension": "png",
+			"path": "src/uk-general-election-2015.png",
+			"hash": "34d5186f543a62f54a124b7cb9cb167d96bca14b6165aec4e1fcea192cdf463c22bab969d244ac63d6ef2f261997da613804de508d0b75e594166fa5012e36ba"
+		},
+		{
+			"name": "world-weekly",
+			"extension": "png",
+			"path": "src/world-weekly.png",
+			"hash": "a9a61a551ca4a63331eb4db127992abbf354ad172e60844dcff48dfaab40bd42ab240e8448e50cfbfae4a2b87151bad4463395fecf5c07e9cd8b51b51f435b20"
+		}
+	]
+}
