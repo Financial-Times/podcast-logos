@@ -1,4 +1,4 @@
-#Podcast logos
+# Podcast logos
 
 ### This component is deprecated. If you need any podcast images please refer to Acast, the podcast hosting system we use.
 
