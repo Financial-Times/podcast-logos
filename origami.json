@@ -1,7 +1,7 @@
 {
 	"description": "podcast-logos",
 	"origamiType": "imageset",
-	"origamiVersion": 1,
+	"origamiVersion": 2,
 	"keywords": [],
 	"support": "https://github.com/Financial-Times/podcast-logos/issues",
 	"supportStatus": "deprecated",
